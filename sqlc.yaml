@@ -1,0 +1,13 @@
+version: "2"
+cloud:
+    organization: ""
+    project: ""
+    hostname: ""
+sql:
+  - driver: postgres
+    datasource: "postgresql://root:2311@localhost:5432/simple_bank"
+overrides:
+    go: null
+plugins: []
+rules: []
+options: {}
