@@ -1,4 +1,3 @@
-module backend_golang
+module github.com/SilverSixx/backend_go
 
 go 1.22.0
-require github.com/sqlc-dev/sqlc v1.25.0
